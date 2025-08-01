@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a French engineering student passionate about AI —
 
 ---
 
-## 💡 What I Like
+## ✍🏻 What I Like
 
 - 💻 Coding
 - 🎮 Video Games
@@ -29,11 +29,16 @@ Welcome to my GitHub! I’m a French engineering student passionate about AI —
 
 ---
 
-## 📚 Currently Learning
+## 💡 Skills
 
+### ✅ What I know
+- 💻 C
+- 🌐 HTML / CSS
+- 🟨 JavaScript
+
+### 📚 Currently Learning
 - 🐍 Python
-- 🔵 C / C++
-- 🌐 JavaScript, HTML, CSS
+- 🔵 C++
 
 ---
 
