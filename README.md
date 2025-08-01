@@ -6,7 +6,6 @@ Welcome to my GitHub! I’m a French engineering student passionate about AI —
   
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
-![traiNNer-redux](https://img.shields.io/badge/traiNNer--redux-informational?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![ISEN Brest](https://img.shields.io/badge/ISEN-Brest-blue?style=for-the-badge)
 
 </div>
@@ -18,7 +17,6 @@ Welcome to my GitHub! I’m a French engineering student passionate about AI —
 - 🎓 18 y/o student at **ISEN Brest** (CIR2)
 - 🌍 Based in France
 - 🤖 Interested in **AI**, especially **video enhancement models** (interpolation, super-resolution)
-- 🧪 Currently experimenting with tools like **traiNNer-redux** and **NeoSR**
 
 ---
 
