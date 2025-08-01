@@ -5,7 +5,7 @@ I’m Matthieu, I'm a Code Beginner and I'm from France ;)
 ## 💁 | About Me:
 
 - `18 years old`
-- `CIR1 ISEN Brest`
+- `CIR2 ISEN Brest`
 - `Love IA, Especially Interpolation & Upscaling Models`
 
 ## 💙 | My Passion
