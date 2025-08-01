@@ -1,23 +1,56 @@
-# 👋 | Hello !
+# 👋 Hello, I’m Matthieu
 
-I’m Matthieu, I'm a Code Beginner and I'm from France ;)
+Welcome to my GitHub! I’m a French engineering student passionate about AI — especially in the field of **video processing** like interpolation and upscaling.
 
-## 💁 | About Me:
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white)
+![traiNNer-redux](https://img.shields.io/badge/traiNNer--redux-informational?style=for-the-badge&logo=OpenCV&logoColor=white)
+![ISEN Brest](https://img.shields.io/badge/ISEN-Brest-blue?style=for-the-badge)
 
-- `18 years old`
-- `CIR2 ISEN Brest`
-- `Love IA, Especially Interpolation & Upscaling Models`
+</div>
 
-## 💙 | My Passion
+---
 
-- `Coding`
-- `Video Games`
-- `AI`
+## 🧑‍🎓 About Me
 
-## 🆙 | My level:
+- 🎓 18 y/o student at **ISEN Brest** (CIR2)
+- 🌍 Based in France
+- 🤖 Interested in **AI**, especially **video enhancement models** (interpolation, super-resolution)
+- 🧪 Currently experimenting with tools like **traiNNer-redux** and **NeoSR**
 
-🌱 I’m learning:
-- `C/C++`
-- `Python`
-- `JavaScript`
-- `Html/Css`
+---
+
+## 💡 What I Like
+
+- 💻 Coding
+- 🎮 Video Games
+- 📽️ Anime & Animated Movies
+- 🧠 AI Models & Data
+
+---
+
+## 📚 Currently Learning
+
+- 🐍 Python
+- 🔵 C / C++
+- 🌐 JavaScript, HTML, CSS
+
+---
+
+## 🚀 Goals
+
+- Contribute to open-source AI & SR projects
+- Develop tools and workflows for processing anime & videos
+- Grow as a developer and share what I learn along the way
+
+---
+
+## 📬 Let’s Connect
+
+Feel free to open issues, contribute, or reach out!  
+I’m always open to feedback, collaboration, or just chatting about AI & video processing.  
+Thanks for stopping by!
+
+---
