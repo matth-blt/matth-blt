@@ -33,13 +33,12 @@ Welcome to my GitHub! I’m a French engineering student passionate about AI —
 ## 💡 Skills
 
 ### ✅ What I know
-- 💻 C
+- 💻 C / C++
 - 🌐 HTML / CSS
 - 🟨 JavaScript
 
 ### 📚 Currently Learning
 - 🐍 Python
-- 🔵 C++
 
 ---
 
